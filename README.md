@@ -1,3 +1,3 @@
 # cheat-sheets
 
-[docker](docker/docker.md)
+[docker basics](docker/docker.md)
